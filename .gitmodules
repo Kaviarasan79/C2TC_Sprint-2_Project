@@ -1,0 +1,3 @@
+[submodule "orderservice"]
+	path = orderservice
+	url = https://github.com/Kaviarasan79/C2TC_Sprint-2_Project.git
